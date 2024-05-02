@@ -3,8 +3,9 @@
 </h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DWan-Dall/DWan-Dall/blob/DWan-Dall-patch-dark-light-mode/Programind%20(5).gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DWan-Dall/DWan-Dall/blob/DWan-Dall-patch-dark-light-mode/Programind%20(6).gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DWan-Dall/DWan-Dall/blob/main/Programind-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DWan-Dall/DWan-Dall/blob/main/Programind-light.gif">
+  <img align="right" alt="Gif Programmind" src="https://github.com/DWan-Dall/DWan-Dall/blob/main/">
 </picture>
 
 <p align="justify">Desenvolvedora Full-Stack, formada em Análise e Desenvolvimento de Sistemas e Sistemas para Internet, com pós-graduação em Segurança da Informação. Tenho paixão por construir soluções tecnológicas inovadoras e acredito que, com as linhas de código certas, podemos solucionar praticamente qualquer problema.</p>
