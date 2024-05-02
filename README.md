@@ -1,15 +1,17 @@
-<img align="right" alt="Programming" height="380" src="https://github.com/DWan-Dall/DWan-Dall/blob/main/Programind.gif">
-
 <h1>
    <span>Daiane Wan-Dall</span>
 </h1>
 
-<p alingn="justify">Desenvolvedora Full-Stack, formada em Análise e Desenvolvimento de Sistemas e Sistemas para Internet, com pós-graduação em Segurança da Informação. Tenho paixão por construir soluções tecnológicas inovadoras e acredito que, com as linhas de código certas, podemos solucionar praticamente qualquer problema.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DWan-Dall/DWan-Dall/blob/DWan-Dall-patch-dark-light-mode/Programind%20(5).gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DWan-Dall/DWan-Dall/blob/DWan-Dall-patch-dark-light-mode/Programind%20(6).gif">
+</picture>
 
-<p alingn="justify">Meu primeiro 'Hello World' foi em PHP com o PhpStorm, e fiquei encantada com a mágica da programação desde então. Atualmente, trabalho com várias linguagens e tecnologias, incluindo C#, .NET e Java, e estou sempre em busca de novos desafios.
-<br>
-<p alingn="justify">Aqui você encontrará alguns dos projetos que estou realizando. Não hesite em entrar em contato para discutir ideias ou oportunidades!
-</p>
+<p align="justify">Desenvolvedora Full-Stack, formada em Análise e Desenvolvimento de Sistemas e Sistemas para Internet, com pós-graduação em Segurança da Informação. Tenho paixão por construir soluções tecnológicas inovadoras e acredito que, com as linhas de código certas, podemos solucionar praticamente qualquer problema.</p>
+
+<p align="justify">Meu primeiro 'Hello World' foi em PHP com o PhpStorm, e fiquei encantada com a mágica da programação desde então. Atualmente, trabalho com várias linguagens e tecnologias, incluindo C#, .NET e Java, e estou sempre em busca de novos desafios.</p>
+
+<p align="justify">Aqui você encontrará alguns dos projetos que estou realizando. Não hesite em entrar em contato para discutir ideias ou oportunidades!</p>
 
 
 ## 🔗 Para conexões...
@@ -33,6 +35,8 @@ Em desenvolvimento:
 <summary></summary>
 
 GitHub Stats <a href="https://github.com/anuraghazra/github-readme-stats"> anuraghazra</a>
+
+Imagens/edições <a href="https://www.canva.com">Canva</a>
 
 <div align="right"><a href="https://github.com/DWan-Dall">DWD💜 </a></div>
 
