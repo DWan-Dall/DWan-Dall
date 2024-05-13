@@ -10,7 +10,7 @@
 
 <p align="justify">Desenvolvedora Full-Stack, formada em Análise e Desenvolvimento de Sistemas e Sistemas para Internet, com pós-graduação em Segurança da Informação. Tenho paixão por construir soluções tecnológicas inovadoras e acredito que, com as linhas de código certas, podemos solucionar praticamente qualquer problema.</p>
 
-<p align="justify">Meu primeiro 'Hello World' foi em PHP com o PhpStorm, e fiquei encantada com a mágica da programação desde então. Atualmente, trabalho com várias linguagens e tecnologias, incluindo C#, .NET e Java, e estou sempre em busca de novos desafios.</p>
+<p align="justify">Meu primeiro 'Hello World' foi em PHP com o PhpStorm, e fiquei encantada com a mágica da programação desde então. Atualmente, trabalho com várias linguagens e tecnologias, como PHP, C#, e Java, e estou sempre em busca de novos desafios e conhecimentos.</p>
 
 <p align="justify">Aqui você encontrará alguns dos projetos que estou realizando. Não hesite em entrar em contato para discutir ideias ou oportunidades!</p>
 
