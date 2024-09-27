@@ -12,7 +12,7 @@
 
 <p align="justify">Meu primeiro 'Hello World' foi em PHP com o PhpStorm, e fiquei encantada com a mágica da programação desde então. Atualmente, trabalho com várias linguagens e tecnologias, como PHP, C# e Java, e estou sempre em busca de novos desafios e conhecimentos.</p>
 
-<p align="justify">Aqui você encontrará alguns dos projetos que estou realizando. Não hesite em entrar em contato para discutir ideias ou oportunidades!</p>
+<p align="justify">Aqui você encontrará alguns dos projetos que estou realizando. Não hesite em entrar em contato para discutir ideias, oportunidades ou desafios!</p>
 
 
 ## 🔗 Para conexões...
