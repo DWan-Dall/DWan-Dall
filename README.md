@@ -27,9 +27,9 @@ Em desenvolvimento:
 
 ## ⚡️ GitHub Stats
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DWan-Dall&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DWan-Dall&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&theme=transparent)
 
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DWan-Dall&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=transparent)](https://github.com/DWan-Dall/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DWan-Dall&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=transparent)](https://github.com/DWan-Dall/github-readme-stats)
 
 <details>
 
